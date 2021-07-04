@@ -4,7 +4,7 @@ namespace Randercarlos\EtiMicroCommon\Traits;
 
 use Illuminate\Support\Facades\Http;
 
-class ConsumeExternalTrait
+trait ConsumeExternalTrait
 {
     private function configDefaultHeaders(array $headers) {
         return array_merge($headers, [

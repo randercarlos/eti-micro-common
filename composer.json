@@ -1,6 +1,6 @@
 {
     "name": "randercarlos/eti-micro-common",
-    "description": "Package Files Utils Microservices",
+    "description": "git remote add origin https://github.com/randercarlos/eti-micro-common.git",
     "type": "library",
     "license": "MIT",
     "autoload": {
