@@ -1,0 +1,19 @@
+{
+    "name": "randercarlos/eti-micro-common",
+    "description": "Package Files Utils Microservices",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Randercarlos\\EtiMicroCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rander",
+            "email": "randerccf@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
